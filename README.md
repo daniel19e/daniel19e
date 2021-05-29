@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daniel19e
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: esc.daniel91@gmail.com
 
 <!---
