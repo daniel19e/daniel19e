@@ -10,6 +10,8 @@ Additionally, I have worked on several group and personal projects such as:
 
 
 
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel19e)](https://github.com/daniel19e/github-readme-stats)
+
 
 <!---
 daniel19e/daniel19e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
