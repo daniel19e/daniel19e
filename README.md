@@ -1,7 +1,7 @@
 Hey there! 
 
 I'm Daniel, a fourth-year Computer Science student at the University of South Florida.
-I have done two SWE internships at Google, which have allowed me to work on large scale products that serve millions of users such as Google Chat.
+I have done two software engineering internships at Google, which have allowed me to work on large scale products that serve millions of users such as Google Chat.
 Additionally, I have worked on several group and personal projects such as:
   1) A fully functional compiler for a custom programming language inspired by Java. This project is in a private repository because it's an extension of a class project for an elective Compilers course at my school. The source code has more than 4,000 lines of code :)
   2) A distributed key-value storage service written in Go. The project contains an implementation of the Raft consensus algorithm for state replication. It can recover from server crashes and network partitions by keeping a log of all operations applied on the primary replica, and sending them to all other services to achieve fault tolerance and consistency.
